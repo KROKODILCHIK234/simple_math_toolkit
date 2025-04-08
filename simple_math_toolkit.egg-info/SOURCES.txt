@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+simple_math_toolkit/__init__.py
+simple_math_toolkit/calculator.py
+simple_math_toolkit.egg-info/PKG-INFO
+simple_math_toolkit.egg-info/SOURCES.txt
+simple_math_toolkit.egg-info/dependency_links.txt
+simple_math_toolkit.egg-info/top_level.txt
